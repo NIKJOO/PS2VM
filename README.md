@@ -1,5 +1,7 @@
 # PS2VM
 
+<a><img src="https://github.com/NIKJOO/PS2VM/blob/main/logo.png" border="0" /></a>
+
 > **PowerShell → convert powershell scripts to bytecodes and run inside virtual machine**.
 
 ---

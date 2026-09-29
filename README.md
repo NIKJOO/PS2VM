@@ -51,6 +51,10 @@ PS2VM.exe r <input.pbc>                # run bytecode in the VM
 PS2VM.exe d <input.pbc>                # disassemble bytecode
 ```
 
+## How to use video 
+
+https://github.com/user-attachments/assets/f8e0cb4a-6662-4b3c-b073-da310091a318
+
 ### Examples
 
 ```powershell
